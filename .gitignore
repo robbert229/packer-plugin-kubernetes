@@ -1,0 +1,6 @@
+*.zip
+keeper.ini
+*.tar.gz
+crash.log
+packer-plugin-keeper
+docs-partials
