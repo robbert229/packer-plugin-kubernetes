@@ -19,7 +19,7 @@ packer {
   required_plugins {
     kubernetes = {
       version = ">= 0.0.1"
-      source  = "github.com/robbert229/packer-plugin-kubernetes"
+      source  = "github.com/robbert229/kubernetes"
     }
   }
 }
